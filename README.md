@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**kateryna-klimchuk/kateryna-klimchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 💻 I'm a web developer with a focus on full-stack development.
 - 🎓 I’m constantly learning new skills and improving my knowledge, especially around **frontend** technologies.
 - 🛠️ My favorite tech stack is **TypeScript**, **React**, **Remix**, and **TailwindCSS**.
@@ -18,4 +13,4 @@ Here are some ideas to get you started:
 - GitHub: [@kateryna-klimchuk](https://github.com/kateryna-klimchuk)
 - LinkedIn: [[your-linkedin-link](https://www.linkedin.com/in/kateryna-klimchuk-5202b7164/)](https://linkedin.com/in/kateryna-klimchuk-5202b7164)
 - Email: ketyclima@gmail.com
--->
+
