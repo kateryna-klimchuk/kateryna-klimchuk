@@ -10,7 +10,7 @@
 
 ## 💬 Let's Connect!
 
-- GitHub: [@kateryna-klimchuk](https://github.com/kateryna-klimchuk)
-- LinkedIn: (https://www.linkedin.com/in/kateryna-klimchuk-5202b7164/)
+- GitHub: https://github.com/kateryna-klimchuk
+- LinkedIn: https://www.linkedin.com/in/kateryna-klimchuk-5202b7164/
 - Email: ketyclima@gmail.com
 
